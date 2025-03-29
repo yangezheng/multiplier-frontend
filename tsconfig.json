@@ -13,5 +13,4 @@
     "lib": ["DOM", "ES2015", "DOM.Iterable"]
   },
   "include": ["src"],
-  "references": [{ "path": "./tsconfig.node.json" }]
 }
